@@ -13,6 +13,9 @@ setup(
     author="Ryan_shamu",
     author_email="Ryanshamu418@Gmail.com",
     description=DESCRIPTION,
+    project_urls = {
+  'Homepage': 'https://github.com/Ryan-shamu-YT/RoInfo/',
+  }
     long_description_content_type="text/markdown",
     long_description=open('README.md').read(),
     packages=find_packages(),
