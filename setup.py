@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.7'
+VERSION = '0.0.8'
 DESCRIPTION = 'A Roblox API Wrapper for roblox.com'
 LONG_DESCRIPTION = DESCRIPTION
 
